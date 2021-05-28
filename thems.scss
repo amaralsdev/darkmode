@@ -1,0 +1,12 @@
+.dark-mode{
+    //(*) Apply in all elements
+    *{
+        background-color: #222!important;
+        color: white!important;
+    }
+  // create a border in all .btn class
+    .btn{
+        border: 1px solid;
+    }
+   
+}
